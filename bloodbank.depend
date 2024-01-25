@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1688496844 source:e:\abcfs\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<ctype.h>
+	<iomanip>
+	<string.h>
+	<graphics.h>
+	<dos.h>
+	<iomanip>
+
+1688497158 source:e:\blood bank project\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<ctype.h>
+	<iomanip>
+	<string.h>
+	<graphics.h>
+	<dos.h>
+	<iomanip>
+
+1688497158 source:e:\blood bank project fs\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<ctype.h>
+	<iomanip>
+	<string.h>
+	<graphics.h>
+	<dos.h>
+	<iomanip>
+
